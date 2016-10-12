@@ -1,0 +1,21 @@
+body{
+  padding:2em;
+}
+.education{
+  font-style: italic;
+  color: gray;
+  font-size:15pt;
+}
+
+.experience{
+  font-size:16pt;
+  color: green;
+}
+
+.skills{
+  font-size:16pt;
+  color:red;
+}
+.big {
+  font-size: 18pt;
+}
